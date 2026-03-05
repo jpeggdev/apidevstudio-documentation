@@ -37,4 +37,4 @@ curl http://localhost:3001
 
 You'll get a 404 response - that's expected! You haven't created any endpoints yet.
 
-**Next:** [Learn the basic workflow](./basic-workflow)
+**Next:** [Learn the basic workflow](./basic-workflow.md)

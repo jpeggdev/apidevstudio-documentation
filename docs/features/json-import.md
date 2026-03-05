@@ -77,6 +77,6 @@ The JSON export file uses the `apidevstudio-endpoints` format:
 
 ## Related
 
-- [Project Export & Import](./project-export-import) — Export/import entire projects as `.apidev.zip` archives
-- [OpenAPI](./openapi) — Import from OpenAPI specifications
-- [Postman Import](./postman-import) — Import from Postman collections
+- [Project Export & Import](./project-export-import.md) — Export/import entire projects as `.apidev.zip` archives
+- [OpenAPI](./openapi.md) — Import from OpenAPI specifications
+- [Postman Import](./postman-import.md) — Import from Postman collections

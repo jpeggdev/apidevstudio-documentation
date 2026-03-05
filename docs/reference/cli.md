@@ -288,7 +288,7 @@ apidev environment <SUBCOMMAND>
 | `activate <PROJECT> [ENV]` | Set active environment (omit ENV to deactivate) |
 | `duplicate <ID>` | Clone environment (`-n, --name`) |
 
-See [Environments](../features/environments) for details.
+See [Environments](../features/environments.md) for details.
 
 ### `apidev recording`
 

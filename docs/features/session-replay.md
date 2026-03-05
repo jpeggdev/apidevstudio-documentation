@@ -12,7 +12,7 @@ Session replay lets you re-send a recorded sequence of proxy requests against a 
 
 ## Prerequisites
 
-Before replaying, you need recorded sessions from [Proxy & Recording](./proxy-recording). When recording is enabled on a proxy endpoint, requests are grouped into sessions automatically.
+Before replaying, you need recorded sessions from [Proxy & Recording](./proxy-recording.md). When recording is enabled on a proxy endpoint, requests are grouped into sessions automatically.
 
 ## Viewing Sessions
 

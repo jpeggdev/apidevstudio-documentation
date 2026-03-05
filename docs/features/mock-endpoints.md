@@ -44,7 +44,7 @@ X-Custom-Header: value
 
 ### Body
 
-Enter your response body. For JSON responses, you can use [template variables](./template-variables) for dynamic data:
+Enter your response body. For JSON responses, you can use [template variables](./template-variables.md) for dynamic data:
 
 ```json
 {

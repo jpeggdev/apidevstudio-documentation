@@ -79,4 +79,4 @@ apidev export my-project -o my-project.apidev.zip
 apidev import my-project.apidev.zip --project my-api
 ```
 
-See the [CLI Reference](../reference/cli) for full details.
+See the [CLI Reference](../reference/cli.md) for full details.

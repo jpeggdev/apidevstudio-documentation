@@ -201,7 +201,7 @@ Import an endpoint from a pasted cURL command:
 - Auto-generated endpoint name from URL path
 - Editable endpoint name before import
 
-See [cURL Import](../features/curl-import) for full details.
+See [cURL Import](../features/curl-import.md) for full details.
 
 ### Flow Editor Modal
 
@@ -222,7 +222,7 @@ Create or edit an automation flow with steps:
 - **+ Add Step** to add steps
 - **Remove** to delete individual steps
 
-See [Flows](../features/flows) for full details.
+See [Flows](../features/flows.md) for full details.
 
 ### Replay Modal
 
@@ -237,7 +237,7 @@ Replay a recorded proxy session against a target URL:
 
 **Results**: Shows total, passed, and failed counts with per-request details (method, path, expected/actual status, duration).
 
-See [Session Replay](../features/session-replay) for full details.
+See [Session Replay](../features/session-replay.md) for full details.
 
 ### JSON Import Modal
 
@@ -250,7 +250,7 @@ See [Session Replay](../features/session-replay) for full details.
 3. **Import**: Progress indicator while creating endpoints
 4. **Summary**: Counts of imported, skipped, and errored endpoints
 
-See [JSON Import](../features/json-import) for full details.
+See [JSON Import](../features/json-import.md) for full details.
 
 ### Registry Import Modal
 
@@ -264,7 +264,7 @@ Import OpenAPI specs from the API Dev Studio Registry:
 
 Shows endpoint count and project name on completion.
 
-See [API Registry Import](../features/api-registry-import) for full details.
+See [API Registry Import](../features/api-registry-import.md) for full details.
 
 ---
 
