@@ -1,6 +1,6 @@
 site_name: API Dev Studio
 site_description: Learn how to use API Dev Studio to mock APIs, catch webhooks, and proxy requests.
-site_url: https://apidevstudio.readthedocs.io/
+site_url: https://docs.apidevstudio.com/
 
 repo_name: jpeggdev/apidevstudio-documentation
 repo_url: https://github.com/jpeggdev/apidevstudio-documentation
@@ -39,6 +39,9 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
   - toc:
