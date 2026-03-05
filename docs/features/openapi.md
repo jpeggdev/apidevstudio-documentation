@@ -75,5 +75,5 @@ Export your mock endpoints as an OpenAPI 3.0 specification.
 
 API Dev Studio also supports importing from:
 
-- **[Postman Collections](./postman-import)** -- Import Postman Collection v2.1 files with folder structure, selective import, and automatic variable mapping
-- **[cURL Commands](./curl-import)** -- Paste a cURL command to instantly create a mock endpoint
+- **[Postman Collections](./postman-import.md)** -- Import Postman Collection v2.1 files with folder structure, selective import, and automatic variable mapping
+- **[cURL Commands](./curl-import.md)** -- Paste a cURL command to instantly create a mock endpoint

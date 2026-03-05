@@ -47,6 +47,6 @@ You'll see your mock response!
 
 ## Next Steps
 
-- Add [dynamic data with template variables](../features/template-variables)
-- Set up [proxy recording](../features/proxy-recording) to capture real API responses
-- Create [multiple response variations](../features/mock-endpoints#response-variations)
+- Add [dynamic data with template variables](../features/template-variables.md)
+- Set up [proxy recording](../features/proxy-recording.md) to capture real API responses
+- Create [multiple response variations](../features/mock-endpoints.md#response-variations)

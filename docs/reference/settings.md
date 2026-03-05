@@ -45,7 +45,7 @@ Open Settings with `Ctrl+,` or click the gear icon in the sidebar.
 | **Activate License** | Enter a license key or use email activation |
 | **Deactivate License** | Release the license for use on another device |
 
-See [Licensing & Pro Features](../features/licensing) for more details.
+See [Licensing & Pro Features](../features/licensing.md) for more details.
 
 ## Developer (Hidden)
 
@@ -56,4 +56,4 @@ These settings appear only when Developer mode is enabled (press `Ctrl+Shift+D` 
 | **Developer mode** | Shows current developer mode status |
 | **View Error Reports** | Open the Error Report Manager |
 
-See [Error Reporting](../features/error-reporting) for more details.
+See [Error Reporting](../features/error-reporting.md) for more details.

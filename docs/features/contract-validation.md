@@ -5,7 +5,7 @@ description: Validate API requests against OpenAPI specifications to catch schem
 
 Contract validation lets you verify that the requests and responses flowing through your mock server conform to an OpenAPI specification. This helps catch schema drift, missing fields, and type mismatches before they reach production.
 
-**This is a Pro feature.** [Upgrade to Pro](./licensing) to unlock contract validation.
+**This is a Pro feature.** [Upgrade to Pro](./licensing.md) to unlock contract validation.
 
 ## How It Works
 

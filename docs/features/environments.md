@@ -72,7 +72,7 @@ Reference environment variables in response bodies, headers, and URLs with the `
 
 If no environment is active or the variable is not defined, `{{env.VAR_NAME}}` resolves to an empty string.
 
-See [Template Variables](./template-variables) for more on template syntax.
+See [Template Variables](./template-variables.md) for more on template syntax.
 
 ## Import and Export
 
@@ -137,4 +137,4 @@ apidev environment duplicate <id> --name "Production Copy"
 apidev environment delete <id>
 ```
 
-See [CLI Reference](../reference/cli) for the full command list.
+See [CLI Reference](../reference/cli.md) for the full command list.

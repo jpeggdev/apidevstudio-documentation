@@ -60,7 +60,7 @@ Recordings are automatically grouped into sessions based on when they were captu
 - **All** — Flat list of every recording
 - **By Session** — Recordings grouped by session, showing request count and time range per session
 
-Click a session to expand it and see individual recordings. Sessions can also be replayed against a target URL — see [Session Replay](./session-replay) for details.
+Click a session to expand it and see individual recordings. Sessions can also be replayed against a target URL — see [Session Replay](./session-replay.md) for details.
 
 ## Generate Mocks from Recordings
 

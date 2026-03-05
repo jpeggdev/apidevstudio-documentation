@@ -1,0 +1,86 @@
+site_name: API Dev Studio
+site_description: Learn how to use API Dev Studio to mock APIs, catch webhooks, and proxy requests.
+site_url: https://apidevstudio.readthedocs.io/
+
+repo_name: jpeggdev/apidevstudio-documentation
+repo_url: https://github.com/jpeggdev/apidevstudio-documentation
+
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Your First Project: getting-started/first-project.md
+      - Basic Workflow: getting-started/basic-workflow.md
+  - Features:
+      - Mock Endpoints: features/mock-endpoints.md
+      - Template Variables: features/template-variables.md
+      - Environments: features/environments.md
+      - Proxy & Recording: features/proxy-recording.md
+      - Webhook Endpoints: features/webhook-endpoints.md
+      - Endpoint Folders: features/endpoint-folders.md
+      - Request Inspector: features/request-inspector.md
+      - Session Replay: features/session-replay.md
+      - Flows: features/flows.md
+      - OpenAPI Import/Export: features/openapi.md
+      - Postman Import: features/postman-import.md
+      - cURL Import: features/curl-import.md
+      - JSON Import: features/json-import.md
+      - API Registry Import: features/api-registry-import.md
+      - Code Snippets: features/code-snippets.md
+      - Project Export/Import: features/project-export-import.md
+      - Contract Validation: features/contract-validation.md
+      - Command Palette: features/command-palette.md
+      - Public URL Tunneling: features/public-url-tunneling.md
+      - HTTPS / TLS: features/https-tls.md
+      - MCP Server: features/mcp-server.md
+      - Error Reporting: features/error-reporting.md
+      - Licensing: features/licensing.md
+  - Reference:
+      - Template Helpers: reference/template-helpers.md
+      - Keyboard Shortcuts: reference/keyboard-shortcuts.md
+      - CLI Reference: reference/cli.md
+      - Settings: reference/settings.md
+      - Modals & Dialogs: reference/modals-dialogs.md
+  - Troubleshooting:
+      - Common Issues: troubleshooting/common-issues.md

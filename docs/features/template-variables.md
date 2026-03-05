@@ -43,7 +43,7 @@ Access variables from the active environment:
 |----------|-------------|
 | `{{env.VAR_NAME}}` | Value of `VAR_NAME` from the active environment |
 
-Environment variables are set in the **Environments** panel. Select an active environment to make its variables available in templates, proxy target URLs, and authentication fields. See [Environments](./environments) for full details on creating and managing environments.
+Environment variables are set in the **Environments** panel. Select an active environment to make its variables available in templates, proxy target URLs, and authentication fields. See [Environments](./environments.md) for full details on creating and managing environments.
 
 ```json
 {
@@ -142,4 +142,4 @@ Generates an array of 5 user objects.
 
 ## Full Reference
 
-See [Template Helpers Reference](../reference/template-helpers) for the complete list.
+See [Template Helpers Reference](../reference/template-helpers.md) for the complete list.
